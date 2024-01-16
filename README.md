@@ -1,6 +1,18 @@
-Ported MOHAA maps for CS:GO & GMOD
+Source files of ported /obj/ MOHAA maps for CS:GO & GMOD
 
-Installation: Download & transfer the map to your game /maps folder
+Contains:
+The Hunt | obj_team1.vmf
+V2 Rocket Facility | obj_team2.vmf
+Omaha Beach | obj_team3.vmf
+The Bridge | obj_team4.vmf
 
-Maps are done. CS2 is out. Time to port.
-Uploading gmod & csgo maps to gamebanana.
+Does not contains any assets, you'll need to download the maps from the game's workshop and extract them.
+
+
+VISGROUPS Meanings:
+WGU: World Geometry Unscaled
+EntU: Entities Unscaled
+WGS: World Geometry Scaled
+EntS: Entities Scaled
+
+Scale down the Unscaled geometry by 0.78 to get the correct scale for the Source engine player.
