@@ -1,4 +1,4 @@
-Source files of ported /obj/ MOHAA maps for CS:GO & GMOD
+Source .vmf files of ported /obj/ MOHAA maps for CS:GO & GMOD
 
 ### Contains:
 
