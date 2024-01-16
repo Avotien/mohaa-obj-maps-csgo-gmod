@@ -2,13 +2,13 @@ Source files of ported /obj/ MOHAA maps for CS:GO & GMOD
 
 Contains:
 
-The Hunt | obj_team1.vmf
+- The Hunt | obj_team1.vmf
 
-V2 Rocket Facility | obj_team2.vmf
+- V2 Rocket Facility | obj_team2.vmf
 
-Omaha Beach | obj_team3.vmf
+- Omaha Beach | obj_team3.vmf
 
-The Bridge | obj_team4.vmf
+- The Bridge | obj_team4.vmf
 
 
 Does not contains any assets, you'll need to download the maps from the game's workshop and extract them.
